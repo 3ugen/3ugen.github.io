@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/eugen/jetBrains/webStormProjects/near/contract-app/contract/target/wasm32-unknown-unknown/release/build/typenum-2aef8d447e16b895/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/eugen/jetBrains/webStormProjects/near/contract-app/contract/target/wasm32-unknown-unknown/release/build/typenum-2aef8d447e16b895/out/op.rs

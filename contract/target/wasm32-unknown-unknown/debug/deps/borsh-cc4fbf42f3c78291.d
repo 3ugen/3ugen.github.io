@@ -1,0 +1,12 @@
+/home/eugen/jetBrains/webStormProjects/near/contract-app/contract/target/wasm32-unknown-unknown/debug/deps/borsh-cc4fbf42f3c78291.rmeta: /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/lib.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/mod.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/hint.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema_helpers.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/ser/mod.rs
+
+/home/eugen/jetBrains/webStormProjects/near/contract-app/contract/target/wasm32-unknown-unknown/debug/deps/libborsh-cc4fbf42f3c78291.rlib: /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/lib.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/mod.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/hint.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema_helpers.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/ser/mod.rs
+
+/home/eugen/jetBrains/webStormProjects/near/contract-app/contract/target/wasm32-unknown-unknown/debug/deps/borsh-cc4fbf42f3c78291.d: /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/lib.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/mod.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/hint.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema_helpers.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/ser/mod.rs
+
+/home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/lib.rs:
+/home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/mod.rs:
+/home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/hint.rs:
+/home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema.rs:
+/home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema_helpers.rs:
+/home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/ser/mod.rs:

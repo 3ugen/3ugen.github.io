@@ -1,0 +1,12 @@
+/home/eugen/jetBrains/webStormProjects/near/contract-app/contract/target/wasm32-unknown-unknown/release/deps/sha2-2fba2a67e1d63642.rmeta: /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/lib.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/consts.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256/soft.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512/soft.rs
+
+/home/eugen/jetBrains/webStormProjects/near/contract-app/contract/target/wasm32-unknown-unknown/release/deps/libsha2-2fba2a67e1d63642.rlib: /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/lib.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/consts.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256/soft.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512/soft.rs
+
+/home/eugen/jetBrains/webStormProjects/near/contract-app/contract/target/wasm32-unknown-unknown/release/deps/sha2-2fba2a67e1d63642.d: /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/lib.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/consts.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256/soft.rs /home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512/soft.rs
+
+/home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/lib.rs:
+/home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/consts.rs:
+/home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256.rs:
+/home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512.rs:
+/home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256/soft.rs:
+/home/eugen/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512/soft.rs:
